@@ -3,6 +3,8 @@
 
 这是简体中文的修改版。由 [Zetaspace](https://github.com/ZetaSp) 制作并分享。遵循原软件 GPL 协议。
 
+NewbieXvwu在原汉化版的基础上合并了一个小的[版本更新](https://github.com/ZetaSp/ExplorerPatcher/pull/1)。
+
 原作 PayPal 捐赠：[点击链接](https://www.paypal.com/donate?business=valentingabrielradu%40gmail.com&no_recurring=0&item_name=ExplorerPatcher&currency_code=EUR) 或通过邮箱地址 valentingabrielradu@gmail.com
 
 ![Build status](https://github.com/ZetaSp/ExplorerPatcher/actions/workflows/build.yml/badge.svg)
